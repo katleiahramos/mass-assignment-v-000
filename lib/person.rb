@@ -7,6 +7,5 @@ class Person
        self.send("#{k}=", v)
      end
    end
-
-
+ end 
 end
